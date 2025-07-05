@@ -1,0 +1,16 @@
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+    color: blueviolet;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color:brown;
+}
+img {
+    border-radius: 20px;
+    max-width: 30%;
+    height: auto;
+}
